@@ -1,5 +1,5 @@
 # Continuous Integration with GitHub, SFDX and CircleCI ...Easier than you think!
-
+# Note this is a copied github repo from mickwheelz/DF2018-Demo branch
 I hope you enjoyed my talk at Dreamforce 2018!
 
 You can use this repository as a base for setting up your own continuous integration workflow!
